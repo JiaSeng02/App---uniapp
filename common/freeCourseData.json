@@ -1,0 +1,38 @@
+[
+    {
+        "s_id": 11,
+        "limitName": "查询对象详解和JVM底层内存分析",
+        "limitNum": 7553,
+        "teacher_logo": "https://img.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1368-3542.jpg?t=st=1743783470~exp=1743787070~hmac=5183c58306cae0932d3bd375d8bb13126c5259849f568175bb2a13ea956019b4&w=740",
+        "teacher_name": "家诚",
+        "teacher_job": "基础级Java讲解",
+        "baoming": "马上报名"
+    },
+    {
+        "s_id": 1084,
+        "limitName": "IDEA的使用和第一个Java项目",
+        "limitNum": 8499,
+        "teacher_logo": "https://img.freepik.com/free-photo/portrait-smiling-blonde-woman_23-2148316635.jpg?t=st=1743783498~exp=1743787098~hmac=84d6389168e818668e9739cbdccaec2739784fe6445a6f78d8fa41f379452715&w=740",
+        "teacher_name": "高讯",
+        "teacher_job": "教父级Java讲解",
+        "baoming": "人员已满"
+    },
+    {
+        "s_id": 1085,
+        "limitName": "100分钟人工智能快速入门课",
+        "limitNum": 8510,
+        "teacher_logo": "https://img.freepik.com/free-photo/portrait-expressive-young-woman_1258-48167.jpg?t=st=1743783514~exp=1743787114~hmac=a112187b47beac12bc473da50d502020b7e9247dafc5179f4e43db98e1938092&w=996",
+        "teacher_name": "陈博",
+        "teacher_job": "人工智能学航院长，自然语言理解，机器学习资源研发专家，中国计算机学会高级专家",
+        "baoming": "马上报名"
+    },
+    {
+        "s_id": 991,
+        "limitName": "Vue从入门到实战",
+        "limitNum": 11229,
+        "teacher_logo": "https://img.freepik.com/free-photo/horizontal-portrait-smiling-happy-young-pleasant-looking-female-wears-denim-shirt-stylish-glasses-with-straight-blonde-hair-expresses-positiveness-poses_176420-13176.jpg?t=st=1743783537~exp=1743787137~hmac=b504dae26627263fcf41cd8abd9548f55628e27b1454b098dc5771f43ad00962&w=996",
+        "teacher_name": "刘星宇",
+        "teacher_job": "前端院长，vue技术资源专家，国内首批react技术贡献者",
+        "baoming": "马上报名"
+    }
+]

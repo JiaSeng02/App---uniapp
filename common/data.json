@@ -1,0 +1,92 @@
+[
+    {
+        "id": 4,
+        "text": "Java",
+        "icon": "icofont-brand-java",
+        "course": "no"
+    },
+	{
+	    "id": 1,
+	    "text": "Java布局",
+	    "icon": "icofont-brand-java",
+	    "course": "no"
+	},
+    {
+        "id": 17,
+        "text": "Python",
+        "icon": "icofont-file-python",
+        "course": "no"
+    },
+    {
+        "id": 9,
+        "text": "Py图像",
+        "icon": "icofont-file-python",
+        "course": "yes"
+    },
+    {
+        "id": 11,
+        "text": "Py自动化",
+        "icon": "icofont-file-python",
+        "course": "yes"
+    },
+    {
+        "id": 10,
+        "text": "Py数据分析",
+        "icon": "icofont-file-python",
+        "course": "yes"
+    },
+    {
+        "id": 16,
+        "text": "Web图像",
+        "icon": "icofont-web",
+        "course": "no"
+    },
+	{
+	    "id": 17,
+	    "text": "WebCSS",
+	    "icon": "icofont-web",
+	    "course": "no"
+	},
+    {
+        "id": 10,
+        "text": "大数据",
+        "icon": "icofont-data",
+        "course": "no"
+    },
+	{
+	    "id": 9,
+	    "text": "Py图像",
+	    "icon": "icofont-file-python",
+	    "course": "yes"
+	},
+	{
+	    "id": 11,
+	    "text": "Py自动化",
+	    "icon": "icofont-file-python",
+	    "course": "yes"
+	},
+	{
+	    "id": 10,
+	    "text": "Py数据分析",
+	    "icon": "icofont-file-python",
+	    "course": "yes"
+	},
+	{
+	    "id": 16,
+	    "text": "Web图像",
+	    "icon": "icofont-web",
+	    "course": "no"
+	},
+	{
+	    "id": 17,
+	    "text": "WebCSS",
+	    "icon": "icofont-web",
+	    "course": "no"
+	},
+	{
+	    "id": 10,
+	    "text": "大数据",
+	    "icon": "icofont-data",
+	    "course": "no"
+	}
+]
