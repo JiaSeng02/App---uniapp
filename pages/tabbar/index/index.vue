@@ -22,9 +22,16 @@
 					限时免费
 				</view>
 			</view>
+			<FreeCard />
 		</view>
 		
-		<FreeCard />
+		<div class="public_title">
+			<view class="public_class_T">
+				零基础就业班
+			</view>
+			<JobScroll />
+		</div>
+		
 	</view>
 </template>
 
@@ -32,6 +39,7 @@
 	import Navbar from '@/components/navbar/navbar.vue'
 	import courseNav from '@/components/courseNav/courseNav.vue'
 	import FreeCard from '@/components/free-card/free-card.vue'
+	import JobScroll from '@/components/jobScroll/jobScroll.vue'
 	export default {
 		data() {
 			return {
@@ -63,7 +71,8 @@
 		components: {
 			Navbar,
 			courseNav,
-			FreeCard
+			FreeCard,
+			JobScroll
 		}
 	}
 </script>
@@ -123,6 +132,18 @@
 		.public_T{
 			font-size: 20px;
 			font-weight: 700;
+		}
+	}
+	.public_title{
+		width: 100%;
+		display: flex;
+		padding: 0 15px;
+		flex-direction: column;
+		
+		.public_class_T{
+			font-size: 22px;
+			font-weight: 700;
+			margin-bottom: 15px;
 		}
 	}
 }

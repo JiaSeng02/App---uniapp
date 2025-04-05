@@ -37,6 +37,13 @@
 				"navigationBarTextStyle": "white",
 				"enablePullDownRefresh": false
 			}
+		},
+		{
+			"path" : "components/jobScroll/jobScroll",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
 		}
 	],
 	"globalStyle": {

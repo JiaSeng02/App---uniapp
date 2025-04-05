@@ -1,0 +1,51 @@
+[
+    {
+        "id": 4,
+		"textT": "JavaEE高新就业班",
+        "text": "世界第一编程语言",
+        "icon": "icofont-brand-java",
+        "colors": "null"
+    },
+	{
+	    "id": 1,
+		"textT": "Python 全系列高手班",
+	    "text": "未来受欢迎编程语言",
+	    "icon": "icofont-file-python",
+	    "colors": "job_scoll_cards"
+	},
+    {
+        "id": 17,
+		"textT": "WEB前端工程师",
+        "text": "运用多种技能的热门职位",
+        "icon": "icofont-web",
+        "colors": "job_scoll_cards"
+    },
+    {
+        "id": 9,
+		"textT": "大数据开发训练营",
+        "text": "站在云端操作万千数据",
+        "icon": "icofont-data",
+        "colors": "job_scoll_cards"
+    },
+    {
+        "id": 11,
+		"textT": "Py数据分析",
+        "text": "Py自动化管理",
+        "icon": "icofont-file-python",
+        "colors": "job_scoll_cards"
+    },
+    {
+        "id": 10,
+		"textT": "WebCSS",
+        "text": "运用多种CSS技能",
+        "icon": "icofont-web",
+        "colors": "job_scoll_cards"
+    },
+    {
+        "id": 16,
+		"textT": "大数据管理",
+        "text": "管理千万数据",
+        "icon": "icofont-data",
+        "colors": "job_scoll_cards"
+    }
+]
