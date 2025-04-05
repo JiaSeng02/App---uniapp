@@ -25,12 +25,12 @@
 			<FreeCard />
 		</view>
 		
-		<div class="public_title">
+		<view class="public_title">
 			<view class="public_class_T">
 				零基础就业班
 			</view>
 			<JobScroll />
-		</div>
+		</view>
 		
 	</view>
 </template>

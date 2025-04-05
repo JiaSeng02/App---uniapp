@@ -1,6 +1,6 @@
 <template>
 	<view class="course_nav">
-		<view class="course_nav_info" v-for="(item, index) in list" :key="index">
+		<view class="course_nav_info" v-for="(item, index) in list" :key="index" @click="courseItemHandle(item.id, item.course)">
 			<!-- v-bind: 简写: -->
 			<text class="course_nav_icon icon iconfont" :class="item.icon"></text>
 			<view class="course_info_text">{{ item.text }}</view>
@@ -18,6 +18,15 @@
 		mounted(){
 			this.list = require('@/common/data.json');
 			//console.log(this.list)
+		},
+		methods: {
+			courseItemHandle(id, course){
+				//console.log(id, course);
+				uni.navigateTo({
+					url: "/pages/course/courseIntro/courseIntro?id=" + id +"&course=" + course
+				})
+				//console.log("hi")
+			}
 		}
 	}
 </script>

@@ -44,6 +44,16 @@
 			{
 				"navigationBarTitleText" : ""
 			}
+		},
+		{
+			"path" : "pages/course/courseIntro/courseIntro",
+			"style" : 
+			{
+				"navigationBarTitleText" : "课程介绍",
+				"navigationBarBackgroundColor": "#0c9c8f",
+				"navigationBarTextStyle": "white",
+				"enablePullDownRefresh": false
+			}
 		}
 	],
 	"globalStyle": {
